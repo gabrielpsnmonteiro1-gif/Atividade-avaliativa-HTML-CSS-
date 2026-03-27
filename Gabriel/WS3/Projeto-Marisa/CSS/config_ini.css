@@ -1,0 +1,171 @@
+body{
+    margin: 0 auto;
+}
+
+.top_cupom{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 40PX;   
+    text-align: center;  
+    background-color: #efefef;  
+}
+
+.menu_info{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 45PX;   
+    text-align: center;  
+    background-color: #000000;  
+}
+
+.menu_infobox{
+    position: relative;
+    margin: 0 auto;
+    width: 1024px;
+    height: 45PX;   
+    background-color: rgb(0, 0, 0); 
+}
+
+.img_logo1{
+    float: left;
+    height: 20px;
+    line-height: 45px;
+}
+
+.menu_infobox_logo{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: auto;
+    height: 20PX;   
+    background-color: #fff;
+    padding: 12.5px;  
+}
+
+.img_logo1{
+    float: left;
+    height: 20px;
+}
+
+.menu_infobox_menu{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: auto;
+    height: 45px;
+}
+
+.mn1{
+    font-family: Arial;
+    font-size: 13px;
+    float: left;
+    color: #fff;
+    padding: 16px 20px;
+    text-decoration: none;
+}
+
+.mn1:hover{
+    color: #ec008c;
+}
+.mn1_card{
+    font-family: Arial;
+    font-size: 13px;
+    float: left;
+    color: #fff;
+    padding: 8px 20px;
+    text-decoration: none;
+    background: #ec008c;
+    border-radius: 20px;
+    margin: 8px 0px;
+}
+
+.mn1_card:hover{
+    color: #000000;
+}
+
+.menu{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    text-align: center;
+    width: 100%;
+    height: 145px;
+    background-color: yellow;
+}
+
+.menu_box{
+    position: relative;
+    margin: 0 auto;
+    width: 1024px;
+    height: 145px;
+    background-color:purple; 
+}
+
+.menu_box1{
+    position: relative;
+    margin: 0 auto;
+    width: 1024px;
+    height: 85px;
+    background-color:pink
+}
+.menu_box2{
+    position: relative;
+    margin: 0 auto;
+    width: 1024px;
+    height: 60px;
+    background-color:red
+}
+
+.menu_box1_logo,.menu_box1_pesq,.menu_box1_entre,.menu_box1_car{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 256px;
+    height: 85px;
+}
+
+.menu_box1_logo{
+    background-color: white;
+}
+.menu_box1_pesq{
+    background-color: yellow;
+}
+.menu_box1_entre{
+    background-color: purple;
+}
+.menu_box1_card{
+    background-color: grey;
+}
+
+.img_logo2{
+    float: left;
+    height: 45px;
+    padding: 20px 0 0 0;
+    background-color: white;
+}
+
+.inp_pesq{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+    padding: 8PX 5PX;
+    border: solid 1px #ec008c;
+    float: left;
+}
+
+.btpesq{
+    height: 34px;
+    width: 30px;
+    background: #ec008c;
+    margin: 0;
+    float: left;
+    border: solid #ec008c;
+    background-image: url(../Imagens/lupa.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 15px 15px;
+}
